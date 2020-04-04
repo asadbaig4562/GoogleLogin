@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceBookLoginAuth</string>
+    <string name="enter_email_here">Enter Email Here</string>
+    <string name="enter_the_password_here">Enter The Password Here</string>
+    <string name="enter_your_email_here">Enter Your Email Here</string>
+    <string name="enter_your_password_here">Enter Your Password Here</string>
+</resources>
